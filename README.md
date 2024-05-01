@@ -37,7 +37,8 @@ Vous pouvez aussi me retrouver parfois en live sur twitch, pour travailler sur c
 
 ## Remerciements
 
-Mélissa, sans qui je ne me serais pas lancé dans ce projet ![MERCI](https://img.shields.io/badge/Merci-FF0000?style=for-the-badge&logo=undertale&logoColor=white)
+![MERCI](https://img.shields.io/badge/Merci-FF0000?style=for-the-badge&logo=undertale&logoColor=white)
+Mélissa, sans qui je ne me serais pas lancé dans ce projet 
 
 - [![Github Mélissa](https://img.shields.io/badge/Son_Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melissafgr)
 
