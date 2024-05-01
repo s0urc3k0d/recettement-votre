@@ -35,3 +35,10 @@ Vous pouvez aussi me retrouver parfois en live sur twitch, pour travailler sur c
 
 [![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lantredesilver)
 
+## Remerciements
+
+Mélissa, sans qui je ne me serais pas lancé dans ce projet ![MERCI](https://img.shields.io/badge/Merci-FF0000?style=for-the-badge&logo=undertale&logoColor=white)
+
+- [![Github Mélissa](https://img.shields.io/badge/Son_Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melissafgr)
+
+- [![Twitch Mélissa](https://img.shields.io/badge/Sa_Chaine_Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/wenyn)
