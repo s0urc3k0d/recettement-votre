@@ -1,3 +1,4 @@
+![Logo du site](https://github.com/S0urc3k0d/recettement-votre/blob/main/src/assets/images/_61aff0cc-28c9-4432-9bcb-0fbebd130f75.jpeg?raw=true)
 # Recettement votre !
 
 Recettement votre est une application interactive sur laquelle vous pourrez retrouver mes recettes !
