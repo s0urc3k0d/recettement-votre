@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'VeganStyle';
+    src: url('../assets/fonts/VeganStyle.ttf') format('truetype');
+  }
+
+@font-face {
+    font-family: 'Rosse';
+    src: url('../assets/fonts/Rosse.ttf') format('truetype');
+  }
+
+@font-face {
+    font-family: 'DollynScript';
+    src: url('../assets/fonts/DollynScript.ttf') format('truetype');
+  }
+
+$title-font: 'VeganStyle', sans-serif;
+$subtitle-font: 'DollynScript', sans-serif;
+$body-font: 'Rosse', sans-serif;
+
+$primary-color: #ac957b;
+$secondary-color: #7c7c7c;
+$tertiary-color: #a36200;
