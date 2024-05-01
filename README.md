@@ -7,7 +7,7 @@ Recettement votre est une application interactive sur laquelle vous pourrez retr
 
 ## Fonctionnalités
 
-- Recherche de recette par mot clé
+- Recherche de recettes par mot clé
 - Proposition de recettes selon vos ingrédients disponible
 - Possibilités de laisser des avis ou des commentaires sous les recettes
 
