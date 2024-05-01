@@ -26,8 +26,10 @@ Recettement votre est une application interactive sur laquelle vous pourrez retr
 
 ## 🔗 Links
 Le lien vers mon Github, pour mes autres projets 
+
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0urc3k0d)
 
 Vous pouvez aussi me retrouver parfois en live sur twitch, pour travailler sur ce projet, ou sur d'autres choses
+
 [![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lantredesilver)
 
