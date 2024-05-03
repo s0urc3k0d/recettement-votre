@@ -1,21 +1,21 @@
 @font-face {
-    font-family: 'VeganStyle';
-    src: url('../assets/fonts/VeganStyle.ttf') format('truetype');
+    font-family: 'PlayfairDisplay';
+    src: url('../assets/fonts/PlayfairDisplay.ttf') format('truetype');
   }
 
 @font-face {
-    font-family: 'Rosse';
-    src: url('../assets/fonts/Rosse.ttf') format('truetype');
+    font-family: 'PTSerif';
+    src: url('../assets/fonts/PTSerif-Regular.ttf') format('truetype');
   }
 
 @font-face {
-    font-family: 'DollynScript';
-    src: url('../assets/fonts/DollynScript.ttf') format('truetype');
+    font-family: 'EBGaramond';
+    src: url('../assets/fonts/EBGaramond.ttf') format('truetype');
   }
 
-$title-font: 'VeganStyle', sans-serif;
-$subtitle-font: 'DollynScript', sans-serif;
-$body-font: 'Rosse', sans-serif;
+$title-font: 'PlayfairDisplay', sans-serif;
+$subtitle-font: 'PTSerif', sans-serif;
+$body-font: 'EBGaramond', sans-serif;
 
 $primary-color: #ac957b;
 $secondary-color: #7c7c7c;

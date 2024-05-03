@@ -1,0 +1,22 @@
+@import '../../style/style.scss';
+
+.header_container{
+    background-color: $primary-color;
+    height: auto;
+    padding: 10vh;
+    background-size: 'cover';
+    display: 'flex';
+    justify-content: 'center';
+    align-items: 'center';
+    border-radius: 20px;
+    box-sizing: border-box;
+    max-width: 90%;
+    margin: 20px auto;
+    &_title{
+        font-family: $title-font;
+        font-size: 3rem;
+    }
+    &_content{
+        font-family: $body-font;
+    }
+}

@@ -7,6 +7,7 @@ const HeaderNavComponent = () => (
             <li className='headernav_container_list_links'><Link to='/'>Accueil</Link></li>
             <li className='headernav_container_list_links'><Link to='/recettes'>Recettes</Link></li>
             <li className='headernav_container_list_links'><Link to='/contact'>Contact</Link></li>
+            <li className='headernav_container_list_links_login'><Link to='/login'>Connexion</Link></li>
         </ul>
   </nav>
 );
